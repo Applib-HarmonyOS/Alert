@@ -43,7 +43,7 @@ Usage:
 </neualert>
 ```
 
-Reference:
+# Reference:
 
 <a href="https://neumorphism.io/">neumorphism.io</a>
 
