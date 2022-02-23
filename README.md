@@ -2,16 +2,11 @@
 
 # Installation :
 
-1. Copy the neumorph_alert folder in your repo.
-2. Add neumorphism as a dependency in your package.json file.
+Install using npm inside pages directory
 
-```json
-{
-  "dependencies": {
-    "neumorphism": "file:../neumorph_alert"
-  }
-}
-```
+```npm init -y```
+
+```npm i hmos-neumorphism ```
 
 # Note :
 
@@ -33,7 +28,7 @@ button, input{
 
 Import:
 ```html
-<element name='neualert' src='../../../../../../node_modules/neumorphism/alert/alert.hml'></element>
+<element name='neualert' src='../node_modules/hmos-neumorphism/alert/alert.hml'></element>
 ```
 
 Usage:
